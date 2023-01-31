@@ -1,1 +1,1 @@
-# Simple colourPicker for Beginners
+# Simple JavaScript colourPicker for Beginners 
